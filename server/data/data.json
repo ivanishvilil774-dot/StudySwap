@@ -1,0 +1,70 @@
+[
+    {
+        "id": "1",
+        "username": "Luka",
+        "email": "luka@example.com",
+        "password": "password123",
+        "description": "I am a passionate tutor with expertise in Math and Programming. I have been tutoring for 5 years and have helped many students achieve their academic goals. I am patient, understanding, and dedicated to providing the best learning experience for my students.",
+        "credits": 20,
+        "rating": 5,
+        "completedSessions": 3,
+        "subjects": [
+        "Math",
+        "Programming"
+        ],
+        "ratings": [
+        {
+            "sessionId": "s1",
+            "studentId": "u2",
+            "rating": 5,
+            "comment": "Luka is an amazing tutor! He explained the concepts clearly and helped me understand difficult topics in Math."
+        },
+        {
+            "sessionId": "s2",
+            "studentId": "u3",
+            "rating": 5,
+            "comment": "Luka is a fantastic tutor. He is patient and knowledgeable, and he always goes the extra mile to help his students succeed."
+        }
+        ]
+    },
+    {
+        "id": "2",
+        "username": "Anna",
+        "email": "anna@example.com",
+        "password": "password456",
+        "description": "I am an experienced tutor specializing in English and History. I have a strong background in literature and historical studies, and I enjoy helping students improve their writing and critical thinking skills. I am committed to creating a supportive and engaging learning environment for my students.",
+        "credits": 15,
+        "rating": 4.5,
+        "completedSessions": 7,
+        "subjects": [
+        "English",
+        "History"
+        ],
+        "ratings": [
+        {
+            "sessionId": "s1",
+            "studentId": "u3",
+            "rating": 5,
+            "comment": "Anna was an excellent tutor! She explained the concepts clearly and helped me improve my writing skills."
+        },
+        {
+            "sessionId": "s2",
+            "studentId": "u4",
+            "rating": 4,
+            "comment": "Anna is a great tutor. She is patient and knowledgeable, but I wish she had more examples during the sessions."
+        }
+        ]
+    },
+    {
+        "id": "3",
+        "username": "Luka",
+        "email": "Lukio@gmail.com",
+        "password": "password123"
+    },
+    {
+        "id": "4",
+        "username": "Gio",
+        "email": "gio@example.com",
+        "password": "password123"
+    }
+]
